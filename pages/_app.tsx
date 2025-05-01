@@ -8,9 +8,9 @@ export default function App({ Component, pageProps }: AppProps) {
   return ( 
     <BaseLayout>
       <Head>
-        <meta name="title" content="Ikhsan N. Huda — Dev."></meta>
-        <meta name="description" content="Ikhsan N. Huda's personal website. A web developer based in Indonesia."></meta>
-        <meta name="keywords" content="Ikhsan N. Huda, Ikhsan, Huda, Ikhsan Huda, Web Developer, Frontend Developer, React Developer, Next.js Developer, Indonesia"></meta>
+        <meta name="title" content="Ikhsan N. Huda — Software Engineer."></meta>
+        <meta name="description" content="Ikhsan N. Huda's personal website. A software engineer based in Indonesia."></meta>
+        <meta name="keywords" content="Ikhsan N. Huda, Ikhsan, Huda, Ikhsan Huda, Web Developer, Frontend Developer, Software Engineer, Indonesia"></meta>
         <meta name="author" content="Ikhsan N. Huda"></meta>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
         <meta name="theme-color" content="#000000"></meta>
