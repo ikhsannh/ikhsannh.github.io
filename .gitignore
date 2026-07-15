@@ -38,12 +38,5 @@ next-env.d.ts
 sw.js
 workbox-*
 
-# Ubuntu
-KeyAN.pem
-ecosystem.config.js
-
-.idea
-```
-
 # Internal Notes, describe structure directory and the function 
 NOTES.md
